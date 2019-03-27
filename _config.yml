@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 清晨行动，夜晚思考
+title: mytac's blog
 subtitle:
-description: mytac's blog
+description: mytac's blog，
 keywords:
 author: mytac
 language:
@@ -19,13 +19,13 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
-source_dir: source
+source_dir: source 
 public_dir: public
 tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
+archive_dir: archives #归档文件夹#
+category_dir: categories #分类文件夹#
+code_dir: downloads/code 
+i18n_dir: :lang #国际化（i18n）文件夹#
 skip_render:
 
 # Writing
@@ -73,9 +73,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: phantom
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:mytac/mytac.github.io.git
+  branch: master

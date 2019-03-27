@@ -1,0 +1,53 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+
+# Logo Image Source
+logo_src: /images/logo.svg
+
+# Theme Main Subtitle
+subtitle_main: The Sky is the LIMIT.
+
+# Theme Secondary subtitle
+susbtitle_secondary: 你最初认为正确的事，在你生命快要结束时回头看可能并不正确。太多人未能成功，仅仅是因为他们害怕变化，或者不能紧跟时代的步伐。不能变化是因为害怕犯错，但我们都需要犯错。
+# Footer About Section
+about_footer: This theme was initially developed by <a href="http://html5up.net" target="_blank">HTML5 UP</a>. It is adapted for Hexo by <a href="http://www.codeblocq.com/" target="_blank">Jonathan Klughertz</a>.<br />The source code is available on <a href="https://github.com/klugjo/hexo-theme-phantom" target="_blank">GitHub</a>.
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates:
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: mytac
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+#twitter_url: https://twitter.com/?lang=en
+#facebook_url: https://www.facebook.com/
+#instagram_url: https://www.instagram.com/
+#dribble_url: https://dribbble.com/
+github_url: https://github.com/mytac
+#googleplus_url: https://plus.google.com/
+#behance_url: https://www.behance.net/
+#fivehundredpx_url: https://500px.com/
+#email_url: \#
+#rss_url: \#
