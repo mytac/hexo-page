@@ -30,7 +30,7 @@ show_dates:
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: mytac
+  disqus_shortname: mytac.github.io
   # Facebook comments
   facebook:
     appid:
